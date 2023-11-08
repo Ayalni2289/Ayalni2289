@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [React-POS](https://github.com/Ayalni2289/React-POS)
 
-- 🌱 I’m currently learning **React, Solidity**
+- 🌱 I’m currently learning **React, Mern, Solidity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ayalni2289](https://github.com/Ayalni2289)
 
-- 💬 Ask me about **React, C++, Python**
+- 💬 Ask me about **React, C++, Mern, Python**
 
 - 📫 How to reach me **aliyalniz2289@gmail.com**
 
