@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayalni2289&label=Profile%20views&color=0e75b6&style=flat" alt="ayalni2289" /> </p>
 
-- 🔭 I’m currently working on [React-POS](https://github.com/Ayalni2289/React-POS)
+- 🔭 I’m currently working on [React-POS](https://github.com/Ayalni2289/POS-projesi-Devam-)
 
 - 🌱 I’m currently learning **React, Mern, Solidity**
 
