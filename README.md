@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [React-POS](https://github.com/Ayalni2289/POS-projesi-Devam-)
 
-- 🌱 I’m currently learning **React, Mern, Solidity**
+- 🌱 I’m currently learning **React, Mern, [Solidity].(https://github.com/Ayalni2289/Solidity_RiseIn)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ayalni2289](https://github.com/Ayalni2289)
 
