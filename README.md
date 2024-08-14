@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [React-Native](https://github.com/Ayalni2289/Mobile_app)
 
-- 🌱 I’m currently learning **React Native, Mern, [Solidity](https://github.com/Ayalni2289/Solidity_RiseIn)**
+- 🌱 I’m currently learning **React Native, React,MVC [Solidity](https://github.com/Ayalni2289/Solidity_RiseIn)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ayalni2289](https://github.com/Ayalni2289)
 
-- 💬 Ask me about **React, C++, Mern, Python**
+- 💬 Ask me about **React, C++, Python**
 
 - 📫 How to reach me **aliyalniz2289@gmail.com**
 
